@@ -1,4 +1,4 @@
-# ⭐ RateSphere — Full-Stack Store Rating & Feedback Platform
+# RateSphere — Full-Stack Store Rating & Feedback Platform
 
 RateSphere is a comprehensive, production-grade store rating, review, and management platform built with **React**, **Node.js/Express**, and **PostgreSQL**. It features role-based access control (Admin, Store Owner, Normal User) wrapped in a futuristic dark glassmorphic UI.
 
